@@ -1,0 +1,3 @@
+﻿  quiz1_KatarzynaKarakow.c
+\\Mac\Home\Desktop\SEMESTER 4\DATABASE MGMT\Code\quiz1\quiz1\quiz1_KatarzynaKarakow.c(6,28): warning C4013: 'malloc' undefined; assuming extern returning int
+  quiz1.vcxproj -> \\Mac\Home\Desktop\SEMESTER 4\DATABASE MGMT\Code\quiz1\Debug\quiz1.exe
